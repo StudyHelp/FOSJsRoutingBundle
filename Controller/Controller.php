@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace FOS\JsRoutingBundle\Controller;
+namespace studyhelp\JsRoutingBundle\Controller;
 
-use FOS\JsRoutingBundle\Extractor\ExposedRoutesExtractorInterface;
-use FOS\JsRoutingBundle\Response\RoutesResponse;
-use FOS\JsRoutingBundle\Util\CacheControlConfig;
+use studyhelp\JsRoutingBundle\Extractor\ExposedRoutesExtractorInterface;
+use studyhelp\JsRoutingBundle\Response\RoutesResponse;
+use studyhelp\JsRoutingBundle\Util\CacheControlConfig;
 use Symfony\Component\Config\ConfigCache;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;

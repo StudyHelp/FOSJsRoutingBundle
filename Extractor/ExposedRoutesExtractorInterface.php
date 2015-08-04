@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace FOS\JsRoutingBundle\Extractor;
+namespace studyhelp\JsRoutingBundle\Extractor;
 
 use Symfony\Component\Config\Resource\ResourceInterface;
 use Symfony\Component\Routing\Route;

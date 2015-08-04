@@ -1,5 +1,5 @@
 {
-    "name": "friendsofsymfony/jsrouting-bundle",
+    "name": "studyhelp/jsrouting-bundle",
     "type": "symfony-bundle",
     "description": "A pretty nice way to expose your Symfony2 routing to client applications.",
     "keywords": [ "js routing", "routing", "javascript" ],
@@ -26,7 +26,7 @@
         "symfony/expression-language": "~2.4"
     },
     "autoload": {
-        "psr-4": { "FOS\\JsRoutingBundle\\": "" }
+        "psr-4": { "studyhelp\\JsRoutingBundle\\": "" }
     },
     "extra": {
         "branch-alias": {

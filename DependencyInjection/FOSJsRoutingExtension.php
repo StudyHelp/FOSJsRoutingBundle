@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace FOS\JsRoutingBundle\DependencyInjection;
+namespace studyhelp\JsRoutingBundle\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\Config\Definition\Processor;
